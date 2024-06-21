@@ -1,0 +1,7 @@
+python 3.9.18 
+pandas (latest ver)
+numpy (latest Ver)
+scikit-learn==0.24.2
+flask (latest ver)
+matplotlib (latest ver)
+

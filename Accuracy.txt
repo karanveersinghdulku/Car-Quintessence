@@ -1,0 +1,6 @@
+Prediction Of Car Prices Using Machine Learning.
+
+Algorithm / Model: Decision Tree Regressor.
+
+Training set is 1.0 and 
+Tree Score on Test Set is 0.916727846049827
